@@ -2,25 +2,3 @@ Project Title: Stock Dashboard App
 
 Description:
 A responsive stock price dashboard built with React, Tailwind CSS, and JavaScript, fetching live stock data from Finnhub API. The app allows users to:
-
-View real-time stock quotes (symbol, price, change, change %) in a clean, sortable table.
-
-Add new stock symbols to the watchlist and remove existing ones.
-
-Search and sort stocks dynamically.
-
-See loading and error states for smooth user experience.
-
-Tech Stack: React, Tailwind CSS, JavaScript, Finnhub API, Vite
-
-Extras / Optional Features Implemented:
-
-Loading spinner while fetching data.
-
-Dynamic sorting of table columns.
-
-Searchable and editable watchlist.
-
-Responsive design for mobile and desktop.
-
-Deployment: Can be deployed on Vercel, Netlify, or GitHub Pages.
